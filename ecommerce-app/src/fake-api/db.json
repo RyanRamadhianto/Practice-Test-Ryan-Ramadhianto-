@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "ryan",
+      "id": 1
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "ryan",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "jimmy",
+      "email": "jimmy@email.com",
+      "password": "1234",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "bill",
+      "email": "bill@email.com",
+      "password": "1234",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "rrrr",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "rrrr",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "rrrr",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 11
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "username": "ryan",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 13
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "username": "usertv",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 14
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "username": "usertv",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 15
+    },
+    {
+      "fullName": "Ryan Ramadhianto",
+      "username": "usertv",
+      "email": "ryanramadhianto@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 16
+    }
+  ],
+  "transactions": [],
+  "products": [],
+  "carts": []
+}
